@@ -1,0 +1,40 @@
+#oldschooltv{ 
+	position:absolute;
+	top:-29.8%;
+	left:50%;
+	margin-left:-330px;
+	width:800px;
+	height:539px;
+	z-index:2;
+	padding:0px;
+	background-image:url('http://i163.photobucket.com/albums/t301/erosario809/OLD-SCHOOL-TV.png');
+	font-family: mangal;
+	font-size: 14px;
+	font-color:#3d4750;
+}
+
+#video_widget{ 
+	position:absolute;
+	top: 18%;
+	left:50%;
+	margin-left:-283px;
+	width:449px;
+	height:328px;
+	z-index:1;
+	padding:0px;
+	background-color: #000;
+}
+
+#playpausebtn{
+	position: absolute;
+	width: 71px;
+	height: 67px;
+	top: 52.6%;
+	left:50%;
+	margin-left: 302px;
+	z-index: 4;
+	background-image:url('http://i163.photobucket.com/albums/t301/erosario809/playbtn.png');
+	width:71px;
+	height:67px;
+	cursor:pointer;
+}
