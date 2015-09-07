@@ -14,9 +14,9 @@ function playPause(){
 	//if the video is playing, when you click on the pause button, vid.pause()=video stops playing
 	if(vid.paused){
 		vid.play();
-		playbtn.style.background = "url('http://i163.photobucket.com/albums/t301/erosario809/playbtn.png')";
+		playbtn.style.background = "url('[play button image here]')";
 	} else {
 		vid.pause();
-		playbtn.style.background = "url('http://i163.photobucket.com/albums/t301/erosario809/pausebtn.png')";
+		playbtn.style.background = "url('[pause button image here]')";
 	}
 }
